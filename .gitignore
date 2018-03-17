@@ -1,0 +1,12 @@
+/.vs
+/Library
+/obj
+/Temp
+/UnityPackageManager
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+Healthhack.csproj
+HealthHack.editor.Plugins
+HealthHack.plugins
+Healthhack.sln
